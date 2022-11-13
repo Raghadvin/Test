@@ -10,4 +10,12 @@ public class Main {
         System.out.println("the sum=" + sum);
         
     }
+
+    private static void sub (int x ,int y){
+        int sub=0;
+        sum=x-y;
+        System.out.println("the sub=" + sub);
+
+    }
+ 
 }
